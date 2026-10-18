@@ -1,0 +1,13 @@
+name: StaminaPlugin
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: A Minecraft plugin with a stamina system
+api-version: "1.21"
+commands:
+  stamina:
+    description: Check your current stamina
+    usage: /stamina
+  abilities:
+    description: List available abilities
+    usage: /abilities
